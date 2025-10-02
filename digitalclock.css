@@ -1,0 +1,23 @@
+
+body{
+  background: linear-gradient(74deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
+  margin:0;
+}
+
+#clock-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  
+}
+
+#clock{
+  font-family: monospace;
+  font-weight: bold;
+  text-align: center;
+  font-size: 6rem;
+  color: black;
+}
+
